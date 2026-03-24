@@ -1,0 +1,122 @@
+{
+  "common": {
+    "download": "Download Materials",
+    "contact": "Contact Us"
+  },
+  "navbar": {
+    "home": "Home",
+    "about": "Service Introduction",
+    "features": "Features",
+    "useCases": "Use Cases",
+    "blog": "Blog",
+    "faq": "FAQ",
+    "download": "Download",
+    "contact": "Contact",
+    "reasons": "Reasons to Choose",
+    "cases": "Customer Cases",
+    "functions": "Main Features"
+  },
+  "hero": {
+    "title": "Professional Web Data Collection & Automation Services",
+    "subtitle": "Empowering businesses to efficiently acquire web data and drive business growth",
+    "cta": "Get Started"
+  },
+  "awards": {
+    "title": "Industry Recognition",
+    "award1": {
+      "title": "Customized Information Customer Satisfaction",
+      "highlight": "No.1",
+      "subtitle": "Customer Satisfaction Survey"
+    },
+    "award2": {
+      "title": "Annual New Customers",
+      "highlight": "No.1",
+      "subtitle": "Enterprise Clients"
+    },
+    "award3": {
+      "title": "Annual Sales Revenue",
+      "highlight": "No.1",
+      "subtitle": "Overseas Information Service Integration"
+    }
+  },
+  "features": {
+    "title": "Core Features",
+    "feature1": {
+      "title": "Complex Condition Data Collection",
+      "description": "Supports data collection under complex search conditions. For example, search results with complex conditions, as well as subsequent processing such as data cleaning, integration, and AI import after collection can be achieved."
+    },
+    "feature2": {
+      "title": "Large-Scale Regular Data Collection",
+      "description": "With years of service operation experience, we can stably collect large amounts of web data on a regular basis. For example, we can stably collect over 1 million SKUs daily."
+    },
+    "feature3": {
+      "title": "Customizable Output Format",
+      "description": "The output format after collection can also be customized. In addition to CSV files, it can also be delivered in formats such as JSON files. It can also be connected to enterprise internal databases and BI tools."
+    }
+  },
+  "useCases": {
+    "title": "Use Cases",
+    "case1": {
+      "title": "Competitive Research",
+      "description": "Efficiently collect product information and price information from competitors. It can obtain product prices, product images, categories, brands, product descriptions, promotion information, points, inventory, colors, etc."
+    },
+    "case2": {
+      "title": "Market Research",
+      "description": "For formulating sales strategies, it can efficiently collect a large amount of news, IR information, government and local government information related to enterprise products and services."
+    },
+    "case3": {
+      "title": "Reputation and Review Collection",
+      "description": "Collect reputation and review information about own and competitors' products, services, and facilities published on EC websites, portal websites, etc. The collected data can be used for product planning and service improvement."
+    },
+    "case4": {
+      "title": "Brand Infringement Monitoring",
+      "description": "It can batch check websites that use trademarks without authorization or sell in violation of brand guidelines, and extract non-compliant websites."
+    },
+    "case5": {
+      "title": "Real Estate Information Collection",
+      "description": "In regional marketing such as store development, real estate information collection is necessary work. We can also regularly and stably collect real estate information."
+    },
+    "case6": {
+      "title": "AI Training Data",
+      "description": "Provides high-quality structured data for AI model training, supporting various machine learning and deep learning application scenarios."
+    }
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "question1": "What file formats are supported for export?",
+    "answer1": "We support various file formats for export, including CSV, JSON, Excel and other common formats. At the same time, we can also directly connect the data to your enterprise internal database or BI tools.",
+    "question2": "Can all websites be collected?",
+    "answer2": "Most websites can be collected, but we will comply with the website's robots.txt protocol and relevant laws and regulations. For websites that require login or have anti-crawling mechanisms, we will use professional technical means to ensure stable collection.",
+    "question3": "Is data collection legal?",
+    "answer3": "Our services strictly comply with relevant laws and regulations. We only collect public, non-personal sensitive information, and conduct compliance assessments before collection. We recommend that customers also comply with relevant legal regulations when using collected data.",
+    "question4": "Do you support overseas websites?",
+    "answer4": "Yes, we support website data collection worldwide. We have distributed collection nodes that can effectively cope with access restrictions from websites in different regions.",
+    "question5": "Can you integrate with BI tools?",
+    "answer5": "Of course. We support integration with various mainstream BI tools such as Tableau, Power BI, FineReport, etc. We can also customize data interfaces according to your needs."
+  },
+  "footer": {
+    "company": "DataCollect Pro",
+    "description": "Professional web data collection and automation services, helping businesses efficiently acquire web data and drive business growth.",
+    "address": "SOHO Modern City, 88 Jianguo Road, Chaoyang District, Beijing",
+    "email": "contact@datacollect.pro",
+    "phone": "400-888-8888",
+    "section1": {
+      "title": "About Us",
+      "link1": "Company Introduction",
+      "link2": "News",
+      "link3": "Join Us"
+    },
+    "section2": {
+      "title": "Service Support",
+      "link1": "Help Center",
+      "link2": "API Documentation",
+      "link3": "Service Status"
+    },
+    "section3": {
+      "title": "Legal Terms",
+      "link1": "Privacy Policy",
+      "link2": "Terms of Service",
+      "link3": "Data Security"
+    }
+  }
+}
