@@ -5,7 +5,11 @@
   },
   "navbar": {
     "home": "Home",
-    "about": "Service Introduction",
+    "coreDataService": "Core Data Services",
+    "specialResearchService": "Special Research Services",
+    "aiEmpowermentCenter": "AI Empowerment Center",
+    "reportNews": "Report & News",
+    "about": "About Us",
     "features": "Features",
     "useCases": "Use Cases",
     "blog": "Blog",
@@ -17,9 +21,15 @@
     "functions": "Main Features"
   },
   "hero": {
-    "title": "Professional Web Data Collection & Automation Services",
-    "subtitle": "Empowering businesses to efficiently acquire web data and drive business growth",
-    "cta": "Get Started"
+    "title": "Professional Web Data Collection and Automation Services",
+    "subtitle": "Helping businesses efficiently acquire web data and drive business growth",
+    "cta": "Get Started",
+    "tagline": "Full-category Data Service Platform",
+    "slogan1": "Global Data Collection · Professional Analysis Empowerment",
+    "slogan2": "Overseas Specialized Deep Cultivation · Precise Research Decision-making",
+    "description": "With full-category data services as the core business, focusing on industry data collection, analysis, empowerment and special research, integrating information services, AI technology, overseas special data, customized research certification and other full-chain capabilities",
+    "stats1": "Service Continuity Rate",
+    "stats2": "Service Projects"
   },
   "awards": {
     "title": "Industry Recognition",
@@ -40,49 +50,48 @@
     }
   },
   "features": {
-    "title": "Core Features",
+    "title": "Core Data Services",
+    "subtitle": "Core Business",
     "feature1": {
-      "title": "Complex Condition Data Collection",
-      "description": "Supports data collection under complex search conditions. For example, search results with complex conditions, as well as subsequent processing such as data cleaning, integration, and AI import after collection can be achieved."
+      "title": "Overseas Special Data",
+      "description": "Deep cultivation of precise data collection, integration, and analysis in the overseas CP field, covering core data dimensions of overseas markets; overseas field road test collection, road condition data summary, overseas network/scenario data review."
     },
     "feature2": {
-      "title": "Large-Scale Regular Data Collection",
-      "description": "With years of service operation experience, we can stably collect large amounts of web data on a regular basis. For example, we can stably collect over 1 million SKUs daily."
+      "title": "Vertical Domain Data",
+      "description": "Full-category music industry data monitoring, copyright data, market data, audience data summary analysis; automotive real-time road conditions, driving data, scene data collection and in-depth summary."
     },
     "feature3": {
-      "title": "Customizable Output Format",
-      "description": "The output format after collection can also be customized. In addition to CSV files, it can also be delivered in formats such as JSON files. It can also be connected to enterprise internal databases and BI tools."
+      "title": "Industry-General Data",
+      "description": "Covering full-industry global network data crawling, screening, cleaning, compliant collection; multi-dimensional data review, trend analysis, data report output, core conclusion extraction."
+    },
+    "feature4": {
+      "title": "Basic Information Services",
+      "description": "Industry basic information integration, data query, information push, data sharing and docking and other supporting services."
     }
   },
   "useCases": {
-    "title": "Use Cases",
+    "title": "Special Research Services",
+    "subtitle": "Customized Core Services",
     "case1": {
-      "title": "Competitive Research",
-      "description": "Efficiently collect product information and price information from competitors. It can obtain product prices, product images, categories, brands, product descriptions, promotion information, points, inventory, colors, etc."
+      "title": "Testing Research",
+      "description": "Targeted scene testing, data verification, effect monitoring, test data summary analysis, providing customers with accurate test results and data support."
     },
     "case2": {
-      "title": "Market Research",
-      "description": "For formulating sales strategies, it can efficiently collect a large amount of news, IR information, government and local government information related to enterprise products and services."
+      "title": "Certification Research",
+      "description": "Industry certification standard interpretation, qualification pre-judgment analysis, certification passability assessment, certification-related data research, helping customers successfully pass various certifications."
     },
     "case3": {
-      "title": "Reputation and Review Collection",
-      "description": "Collect reputation and review information about own and competitors' products, services, and facilities published on EC websites, portal websites, etc. The collected data can be used for product planning and service improvement."
+      "title": "Competitive Analysis Research",
+      "description": "Full-dimensional competitor data analysis, advantage and disadvantage comparison, market share analysis, competitive strategy research, providing customers with comprehensive competitive intelligence."
     },
     "case4": {
-      "title": "Brand Infringement Monitoring",
-      "description": "It can batch check websites that use trademarks without authorization or sell in violation of brand guidelines, and extract non-compliant websites."
-    },
-    "case5": {
-      "title": "Real Estate Information Collection",
-      "description": "In regional marketing such as store development, real estate information collection is necessary work. We can also regularly and stably collect real estate information."
-    },
-    "case6": {
-      "title": "AI Training Data",
-      "description": "Provides high-quality structured data for AI model training, supporting various machine learning and deep learning application scenarios."
+      "title": "Market Research",
+      "description": "Industry market trends, audience needs, market size, development prospects and other global research, providing data support for customers' strategic decisions."
     }
   },
   "faq": {
     "title": "Frequently Asked Questions",
+    "subtitle": "Frequently Asked Questions about hirotaku",
     "question1": "What file formats are supported for export?",
     "answer1": "We support various file formats for export, including CSV, JSON, Excel and other common formats. At the same time, we can also directly connect the data to your enterprise internal database or BI tools.",
     "question2": "Can all websites be collected?",
@@ -94,12 +103,108 @@
     "question5": "Can you integrate with BI tools?",
     "answer5": "Of course. We support integration with various mainstream BI tools such as Tableau, Power BI, FineReport, etc. We can also customize data interfaces according to your needs."
   },
+  "cta": {
+    "contact": "Welcome to contact us at any time",
+    "description": "Get price plans and service details"
+  },
+  "downloads": {
+    "title": "Report Download/Customization",
+    "subtitle": "Report Resources",
+    "viewMore": "View More Materials",
+    "items": {
+      "item1": {
+        "title": "2026 Global Data Service Industry Report",
+        "description": "Full industry data trend analysis and prediction"
+      },
+      "item2": {
+        "title": "Overseas CP Data Market Analysis Report",
+        "description": "Overseas market core data dimension analysis"
+      },
+      "item3": {
+        "title": "AI Data Collection Technology White Paper",
+        "description": "Intelligent crawler technology and application cases"
+      }
+    }
+  },
+  "about": {
+    "title": "About Us",
+    "subtitle": "Platform Strength",
+    "intro": "Platform Introduction",
+    "introDescription": "With full-category data services as the core business, focusing on industry data collection, analysis, empowerment and special research, integrating information services, AI technology, overseas special data, customized research certification and other full-chain capabilities, creating a professional, authoritative, one-stop data solution platform, covering data needs of multiple scenarios and industries at home and abroad, providing customers with accurate, efficient, and implementable data support and decision-making reference.",
+    "advantages": "Service Advantages",
+    "advantage1": "Data Compliance",
+    "advantage2": "Accuracy and Efficiency",
+    "advantage3": "Overseas Resources",
+    "advantage4": "AI Technology",
+    "advantage5": "Customized Services"
+  },
+  "blog": {
+    "title": "Report & News Center",
+    "description": "Industry reports, market research results, data information and report downloads",
+    "viewMore": "View More Articles",
+    "articles": [
+      {
+        "title": "2026 Global Data Service Industry Report",
+        "date": "2026-03-15"
+      },
+      {
+        "title": "Overseas CP Data Market Analysis Report",
+        "date": "2026-02-28"
+      },
+      {
+        "title": "Music Industry Data Trend Research",
+        "date": "2026-02-15"
+      },
+      {
+        "title": "AI Data Collection Technology White Paper",
+        "date": "2026-01-30"
+      },
+      {
+        "title": "Automotive Industry Road Condition Data Research Report",
+        "date": "2026-01-15"
+      },
+      {
+        "title": "2025 Data Service Industry Summary",
+        "date": "2025-12-31"
+      }
+    ]
+  },
+  "functions": {
+    "title": "AI Empowerment Center",
+    "subtitle": "Technical Differentiation Highlights",
+    "function1": {
+      "title": "AI Data Collection",
+      "description": "Intelligent crawlers, compliant screening, efficient global data crawling, reducing labor costs."
+    },
+    "function2": {
+      "title": "AI Data Analysis",
+      "description": "Intelligent data cleaning, dimension dismantling, trend prediction, and anomaly data identification."
+    },
+    "function3": {
+      "title": "AI Report Generation",
+      "description": "Automated research reports, data briefings, and customized analysis copy output."
+    },
+    "function4": {
+      "title": "AI Research Empowerment",
+      "description": "Intelligent questionnaires, data review, and visual presentation of research results."
+    }
+  },
+  "clients": {
+    "client1": "Tokyo Kasei Kogyo",
+    "client2": "Abe Kosan",
+    "client3": "Daikin Industries",
+    "client4": "Daito Trust Construction",
+    "client5": "LIXIL Group",
+    "client6": "Hakugen Earth",
+    "client7": "Japan Airlines",
+    "client8": "SoftBank Group"
+  },
   "footer": {
     "company": "DataCollect Pro",
     "description": "Professional web data collection and automation services, helping businesses efficiently acquire web data and drive business growth.",
-    "address": "SOHO Modern City, 88 Jianguo Road, Chaoyang District, Beijing",
-    "email": "contact@datacollect.pro",
-    "phone": "400-888-8888",
+    "address": "2-29-24 Higashi-Abiko, Abiko City, Chiba Prefecture, Ferio Tennozawa 302",
+    "email": "benny.liao@hirotaku.vip",
+    "phone": "+81-08092807781",
     "section1": {
       "title": "About Us",
       "link1": "Company Introduction",
