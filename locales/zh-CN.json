@@ -5,10 +5,10 @@
   },
   "navbar": {
     "home": "首页",
-    "coreDataService": "核心数据服务",
+    "coreDataService": "数据整合服务",
     "specialResearchService": "专项调研服务",
     "aiEmpowermentCenter": "AI赋能中心",
-    "reportNews": "报告资讯",
+    "reportNews": "成果报告",
     "about": "关于我们",
     "features": "功能特点",
     "useCases": "使用场景",
@@ -24,10 +24,10 @@
     "title": "专业的Web数据采集与自动化服务",
     "subtitle": "助力企业高效获取网络数据，驱动业务增长",
     "cta": "立即开始",
-    "tagline": "全品类数据服务平台",
-    "slogan1": "全域数据采集 · 专业分析赋能",
+    "tagline": "各品类垂直数据整合服务平台",
+    "slogan1": "跨域数据采集 · 专业分析赋能",
     "slogan2": "海外专项深耕 · 精准调研决策",
-    "description": "以全品类数据服务为核心主业，聚焦行业数据采集、分析、赋能与专项调研，整合信息服务、AI技术、海外专项数据、定制化调研认证等全链条能力",
+    "description": "强化各行业数据整合服务为核心主业，聚焦客户产品化过程中的垂直数据采集、分析、透过AI赋能、专项调研，与多维度的信息融合、加速客户在国内外市场推广、产品创新、产研智能化、产品生命周期迭代与互联网络运营等全链条落地能力。",
     "stats1": "服务持续率",
     "stats2": "服务项目"
   },
@@ -50,7 +50,7 @@
     }
   },
   "features": {
-    "title": "核心数据服务",
+    "title": "数据整合服务",
     "subtitle": "核心业务",
     "feature1": {
       "title": "海外专项数据",
@@ -71,7 +71,7 @@
   },
   "useCases": {
     "title": "专项调研服务",
-    "subtitle": "定制化核心服务",
+    "subtitle": "定制化服务",
     "case1": {
       "title": "测试调研",
       "description": "定向场景测试、数据验证、效果监测、测试数据汇总分析，为客户提供精准的测试结果和数据支持。"
@@ -139,7 +139,7 @@
     "advantage5": "定制化服务"
   },
   "blog": {
-    "title": "报告资讯中心",
+    "title": "成果报告中心",
     "description": "行业报告、市场调研成果、数据资讯和报告下载",
     "viewMore": "查看更多文章",
     "articles": [
@@ -171,7 +171,7 @@
   },
   "functions": {
     "title": "AI赋能中心",
-    "subtitle": "技术差异化亮点",
+    "subtitle": "技术差异化",
     "function1": {
       "title": "AI数据采集",
       "description": "智能爬虫、合规筛选、高效全域数据抓取，降低人工成本。"
@@ -201,7 +201,7 @@
   },
   "footer": {
     "company": "DataCollect Pro",
-    "description": "专业的Web数据采集与自动化服务，助力企业高效获取网络数据，驱动业务增长。",
+    "description": "专业的跨国数据整合与AI赋能服务，助力企业高效拓展市场，推进产品迭代与服务运营，驱动业务实现增长。",
     "address": "千叶县我孙子市东我孙子2-29-24费里奥天王台302",
     "email": "benny.liao@hirotaku.vip",
     "phone": "+81-08092807781",
