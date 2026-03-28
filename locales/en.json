@@ -107,25 +107,7 @@
     "contact": "Welcome to contact us at any time",
     "description": "Get price plans and service details"
   },
-  "downloads": {
-    "title": "Report Download/Customization",
-    "subtitle": "Report Resources",
-    "viewMore": "View More Materials",
-    "items": {
-      "item1": {
-        "title": "2026 Global Data Service Industry Report",
-        "description": "Full industry data trend analysis and prediction"
-      },
-      "item2": {
-        "title": "Overseas CP Data Market Analysis Report",
-        "description": "Overseas market core data dimension analysis"
-      },
-      "item3": {
-        "title": "AI Data Collection Technology White Paper",
-        "description": "Intelligent crawler technology and application cases"
-      }
-    }
-  },
+
   "about": {
     "title": "About Us",
     "subtitle": "Platform Strength",
@@ -140,34 +122,83 @@
   },
   "blog": {
     "title": "Report & News Center",
-    "description": "Industry reports, market research results, data information and report downloads",
-    "viewMore": "View More Articles",
-    "articles": [
-      {
-        "title": "2026 Global Data Service Industry Report",
-        "date": "2026-03-15"
-      },
-      {
-        "title": "Overseas CP Data Market Analysis Report",
-        "date": "2026-02-28"
-      },
-      {
-        "title": "Music Industry Data Trend Research",
-        "date": "2026-02-15"
-      },
-      {
-        "title": "AI Data Collection Technology White Paper",
-        "date": "2026-01-30"
-      },
-      {
-        "title": "Automotive Industry Road Condition Data Research Report",
-        "date": "2026-01-15"
-      },
-      {
-        "title": "2025 Data Service Industry Summary",
-        "date": "2025-12-31"
-      }
-    ]
+    "description": "Industry reports, market research, data analysis",
+    "card1-title": "Industry Reports",
+    "card1-description": "Provide in-depth industry analysis reports to gain insights into market trends and competitive landscape",
+    "card2-title": "Market Research",
+    "card2-description": "Professional market research services to help businesses understand target markets",
+    "card3-title": "Data Analysis",
+    "card3-description": "Precise data analysis to provide scientific basis for decision-making"
+  },
+  "modules": {
+    "dataCollection": "Data Collection Achievements",
+    "dataIntegration": "Data Integration Achievements",
+    "dataAnalysis": "Data Analysis Achievements",
+    "implementation": "Full-chain Implementation Achievements",
+    "security": "Data Security & Compliance Achievements",
+    "ecosystem": "Internet Ecosystem Resource Achievements"
+  },
+  "cases": {
+    "case1": "Multimodal Compliant Collection Terminal",
+    "case1Desc": "Domestically developed, end-to-end encryption, multimodal collection, multi-industry adaptation, cost reduction 30%, operation speed increase 50%",
+    "case1Highlight": "Local Compliance, Efficient Cost Reduction",
+    "case2": "Global Data Source Collection",
+    "case2Desc": "Covers domestic and international full-category data sources, real-time multi-platform collection, 100,000+ daily collections, 98%+ coverage, customizable, fragmented",
+    "case2Highlight": "Global Coverage, Efficient Customization",
+    "case3": "AI Intelligent Collection Assistant Tool",
+    "case3Desc": "Large model + edge computing, local initial screening and cleaning, releases 80% storage space, compliant collection, adaptive scenarios",
+    "case3Highlight": "Intelligent Efficiency, Security Compliance",
+    "case4": "Full-category Data Governance Platform",
+    "case4Desc": "One-stop full-process governance, daily PB-level synchronization, cleaning accuracy 99.2%, realizes data assetization, multi-industry adaptation",
+    "case4Highlight": "Efficient Governance, Asset Management",
+    "case5": "Cross-domain Data Fusion Solution",
+    "case5Desc": "Customized connection of multi-source data, large model correlation analysis, builds \"data-technology-service\" system, breaks data silos",
+    "case5Highlight": "Cross-domain Interoperability, Full-system Empowerment",
+    "case6": "Data Standardization Manual and Dataset",
+    "case6Desc": "Unified data standards, provides directly reusable standardized datasets, reduces costs and improves efficiency, supports rapid decision-making",
+    "case6Highlight": "Standardized Specification, Ready-to-use",
+    "case7": "AI Intelligent Analysis Dashboard",
+    "case7Desc": "Visual multi-dimensional presentation, real-time updates, interactive support, helps senior management make rapid decisions, real-time operational monitoring",
+    "case7Highlight": "Visualization, Efficient Decision-making",
+    "case8": "Vertical Category Industry Analysis Report",
+    "case8Desc": "Regularly outputs in-depth reports, includes trend prediction and demand insights, mature multi-industry system, becomes industry reference",
+    "case8Highlight": "In-depth Professional, Industry Benchmark",
+    "case9": "Scenario-based AI Analysis Model",
+    "case9Desc": "Customized multi-scenario adaptation, covers market, R&D, operations, etc., fault prediction accuracy 92%, development speed increase up to 51%",
+    "case9Highlight": "Scenario Adaptation, Outstanding Efficiency",
+    "case10": "User and Competitor In-depth Analysis",
+    "case10Desc": "Precise user portraits + competitor panoramic profiles, multi-dimensional comparison, supports product innovation and market competition",
+    "case10Highlight": "Precise Insight, Competition Empowerment",
+    "case11": "Domestic and International Market Promotion Data Empowerment Solution",
+    "case11Desc": "Global data support, full-process service, compliance adaptation, helps expand market, reduces costs and improves efficiency, won industry excellent case",
+    "case11Highlight": "Global Adaptation, Effective Implementation",
+    "case12": "Product Innovation and Lifecycle Iteration Service",
+    "case12Desc": "Full-cycle data support, excavates demands, optimizes products, shortens iteration cycle, enhances competitiveness",
+    "case12Highlight": "Full-cycle Empowerment, Innovation-driven",
+    "case13": "R&D Intelligent Upgrade Solution",
+    "case13Desc": "Industrial data + AI integration, optimizes processes, equipment early warning, energy consumption reduction 8%+, serves hundreds of enterprises",
+    "case13Highlight": "Intelligent Upgrade, Energy Saving",
+    "case14": "Internet Operation Data Optimization Service",
+    "case14Desc": "Full-scenario operational analysis, real-time monitoring, precise optimization, some cases' collection rate increased from 62% to 92%",
+    "case14Highlight": "Precise Optimization, Significant Results",
+    "case15": "Data Security Governance System Report",
+    "case15Desc": "Customized risk assessment and rectification, 40+ protection measures, 50+ sensitive identification templates, adapts to multi-industry compliance",
+    "case15Highlight": "Custom Compliance, Comprehensive Protection",
+    "case16": "Compliant Data Service Certificate",
+    "case16Desc": "Full-process compliance, provides compliance certificates and traceability reports, avoids risks, safeguards data sovereignty",
+    "case16Highlight": "Full-process Compliance, Sovereignty Protection",
+    "case17": "Data Security Operation and Maintenance Service Package",
+    "case17Desc": "7×24-hour monitoring and operation, full-link security closed loop, ensures data asset stability",
+    "case17Highlight": "All-day Protection, Security Closed Loop",
+    "case18": "Overseas Travel Service",
+    "case18Desc": "Integrates navigation travel guidance and value-added services from 200+ countries globally, provides GIS business integration capabilities for enterprises, provides travel information for users",
+    "case18Highlight": "Flexible Modules, On-demand Calling",
+    "case19": "Mobile Terminal Operation Service",
+    "case19Desc": "Based on customer product positioning, provides customized social media operations at home and abroad, provides personalized push through user service needs in various scenarios",
+    "case19Highlight": "Intelligent Analysis, User Reach Optimization",
+    "case20": "Intelligent Cockpit Service",
+    "case20Desc": "Collects overseas multimedia CP resources, provides seamless experience between user's car machine and mobile phone for various automotive cockpit scenarios, optimizes experience through environmental perception and driving interaction",
+    "case20Highlight": "Automotive Adaptation, Scenario Customization"
   },
   "functions": {
     "title": "AI Empowerment Center",
@@ -189,39 +220,60 @@
       "description": "Intelligent questionnaires, data review, and visual presentation of research results."
     }
   },
-  "clients": {
-    "client1": "Tokyo Kasei Kogyo",
-    "client2": "Abe Kosan",
-    "client3": "Daikin Industries",
-    "client4": "Daito Trust Construction",
-    "client5": "LIXIL Group",
-    "client6": "Hakugen Earth",
-    "client7": "Japan Airlines",
-    "client8": "SoftBank Group"
+  "categories": {
+    "collectionTech": "Collection Technology",
+    "dataCollection": "Data Collection",
+    "aiTools": "AI Tools",
+    "dataGovernance": "Data Governance",
+    "solutions": "Solutions",
+    "dataStandardization": "Data Standardization",
+    "aiAnalysis": "AI Analysis",
+    "industryAnalysis": "Industry Analysis",
+    "aiModels": "AI Models",
+    "deepAnalysis": "Deep Analysis",
+    "marketEmpowerment": "Market Empowerment",
+    "productServices": "Product Services",
+    "intelligence": "Intelligence",
+    "operationOptimization": "Operation Optimization",
+    "securityGovernance": "Security Governance",
+    "complianceServices": "Compliance Services",
+    "maintenanceServices": "Maintenance Services"
+  },
+  "successCases": {
+    "title": "Service Projects",
+    "description": "We provide comprehensive data solutions for clients to help with enterprise digital transformation",
+    "case1": "Multimodal compliant collection terminal",
+    "case2": "Global data source collection",
+    "case3": "AI intelligent collection assistant tool",
+    "case4": "Category data governance platform",
+    "case5": "Cross-domain data integration solution",
+    "case6": "Data standardization manual and dataset",
+    "case7": "AI intelligent analysis dashboard",
+    "case8": "Vertical category industry analysis report",
+    "case9": "Scenario-based AI analysis model",
+    "case10": "User and competitor in-depth analysis",
+    "case11": "Domestic and international market promotion data empowerment solution",
+    "case12": "Product innovation and lifecycle iteration service",
+    "case13": "R&D intelligent upgrade solution",
+    "case14": "Internet operation data optimization service",
+    "case15": "Data security governance system report",
+    "case16": "Overseas compliance certification service",
+    "case17": "Data security operation and maintenance service"
   },
   "footer": {
     "company": "DataCollect Pro",
     "description": "Professional cross-border data integration and AI empowerment services, helping businesses efficiently expand markets, promote product iteration and service operations, and drive business growth.",
     "address": "2-29-24 Higashi-Abiko, Abiko City, Chiba Prefecture, Ferio Tennozawa 302",
-    "email": "benny.liao@hirotaku.vip",
+    "email": "info@hirotaku.vip",
     "phone": "+81-08092807781",
-    "section1": {
-      "title": "About Us",
-      "link1": "Company Introduction",
-      "link2": "News",
-      "link3": "Join Us"
-    },
-    "section2": {
-      "title": "Service Support",
-      "link1": "Help Center",
-      "link2": "API Documentation",
-      "link3": "Service Status"
-    },
-    "section3": {
-      "title": "Legal Terms",
-      "link1": "Privacy Policy",
-      "link2": "Terms of Service",
-      "link3": "Data Security"
+    "serviceSupport": "Service Support",
+    "cities": {
+      "shanghai": "Shanghai",
+      "shenzhen": "Shenzhen",
+      "taipei": "Taipei",
+      "jakarta": "Jakarta",
+      "oslo": "Oslo",
+      "sanfrancisco": "San Francisco"
     }
   }
 }

@@ -107,25 +107,7 @@
     "contact": "欢迎随时联系我们",
     "description": "获取价格方案和服务详情等资料"
   },
-  "downloads": {
-    "title": "报告下载/定制",
-    "subtitle": "报告资源",
-    "viewMore": "查看更多资料",
-    "items": {
-      "item1": {
-        "title": "2026年全球数据服务行业报告",
-        "description": "全行业数据趋势分析和预测"
-      },
-      "item2": {
-        "title": "海外CP数据市场分析报告",
-        "description": "海外市场核心数据维度分析"
-      },
-      "item3": {
-        "title": "AI数据采集技术白皮书",
-        "description": "智能爬虫技术与应用案例"
-      }
-    }
-  },
+
   "about": {
     "title": "关于我们",
     "subtitle": "平台实力",
@@ -140,34 +122,83 @@
   },
   "blog": {
     "title": "成果报告中心",
-    "description": "行业报告、市场调研成果、数据资讯和报告下载",
-    "viewMore": "查看更多文章",
-    "articles": [
-      {
-        "title": "2026年全球数据服务行业报告",
-        "date": "2026-03-15"
-      },
-      {
-        "title": "海外CP数据市场分析报告",
-        "date": "2026-02-28"
-      },
-      {
-        "title": "音乐行业数据趋势研究",
-        "date": "2026-02-15"
-      },
-      {
-        "title": "AI数据采集技术白皮书",
-        "date": "2026-01-30"
-      },
-      {
-        "title": "汽车行业路况数据调研报告",
-        "date": "2026-01-15"
-      },
-      {
-        "title": "2025年度数据服务行业总结",
-        "date": "2025-12-31"
-      }
-    ]
+    "description": "行业报告、市场调研、数据分析",
+    "card1-title": "行业报告",
+    "card1-description": "提供深度行业分析报告，洞察市场趋势和竞争格局",
+    "card2-title": "市场调研",
+    "card2-description": "专业的市场调研服务，帮助企业了解目标市场",
+    "card3-title": "数据分析",
+    "card3-description": "精准的数据分析，为决策提供科学依据"
+  },
+  "modules": {
+    "dataCollection": "数据采集类成果",
+    "dataIntegration": "数据整合类成果",
+    "dataAnalysis": "数据分析类成果",
+    "implementation": "全链条落地类成果",
+    "security": "数据安全与合规类成果",
+    "ecosystem": "互联网生态资源成果"
+  },
+  "cases": {
+    "case1": "多模态合规采集终端",
+    "case1Desc": "国产自主研发，全流程加密，多模态采集、多行业适配，降本30%、运维提速50%",
+    "case1Highlight": "本地化合规、高效降本",
+    "case2": "全域数据源采集",
+    "case2Desc": "覆盖国内外全品类数据源，多平台实时采集，日采10万+条、覆盖率98%+，可定制、破碎片化",
+    "case2Highlight": "全域覆盖、高效可定制",
+    "case3": "AI智能采集辅助工具",
+    "case3Desc": "大模型+边缘计算，本地初筛清洗，释放80%存储空间，合规采集、自适应场景",
+    "case3Highlight": "智能高效、安全合规",
+    "case4": "全品类数据治理平台",
+    "case4Desc": "一站式全流程治理，日PB级同步，清洗准确率99.2%，实现数据资产化、多行业适配",
+    "case4Highlight": "高效治理、资产化管理",
+    "case5": "跨域数据融合解决方案",
+    "case5Desc": "定制化打通多源数据，大模型关联分析，构建“数据-技术-服务”体系，打破数据孤岛",
+    "case5Highlight": "跨域互通、全体系赋能",
+    "case6": "数据标准化手册与数据集",
+    "case6Desc": "统一数据标准，提供可直接复用的标准化数据集，降本提效、支撑快速决策",
+    "case6Highlight": "标准规范、即取即用",
+    "case7": "AI智能分析仪表盘",
+    "case7Desc": "可视化多维度呈现，实时更新、支持交互，助力高层快速决策、运营实时监控",
+    "case7Highlight": "可视化、高效决策",
+    "case8": "垂直品类行业分析报告",
+    "case8Desc": "定期输出深度报告，含趋势预测与需求洞察，多行业成熟体系，成为行业参考",
+    "case8Highlight": "深度专业、行业标杆",
+    "case9": "场景化AI分析模型",
+    "case9Desc": "定制多场景适配，覆盖市场、产研、运营等，故障预测准92%、开发提速最高51%",
+    "case9Highlight": "场景适配、效能突出",
+    "case10": "用户与竞品深度分析",
+    "case10Desc": "精准用户画像+竞品全景档案，多维度对比，支撑产品创新与市场竞争",
+    "case10Highlight": "精准洞察、竞争赋能",
+    "case11": "国内外市场推广数据赋能方案",
+    "case11Desc": "全球数据支撑，全流程服务，合规适配，助力拓展市场、降本增效，获行业优秀案例",
+    "case11Highlight": "全球适配、落地见效",
+    "case12": "产品创新与生命周期迭代服务",
+    "case12Desc": "全周期数据支撑，挖掘需求、优化产品，缩短迭代周期、提升竞争力",
+    "case12Highlight": "全周期赋能、创新驱动",
+    "case13": "产研智能化升级方案",
+    "case13Desc": "工业数据+AI融合，优化流程、设备预警，能耗降8%+，服务数百家企业",
+    "case13Highlight": "智能升级、节能高效",
+    "case14": "互联网络运营数据优化服务",
+    "case14Desc": "全场景运营分析，实时监测、精准优化，部分案例揽收率从62%升至92%",
+    "case14Highlight": "精准优化、成效显著",
+    "case15": "数据安全治理体系报告",
+    "case15Desc": "定制化风险评估与整改，40+保护措施、50+敏感识别模板，适配多行业合规",
+    "case15Highlight": "定制合规、全面防护",
+    "case16": "合规数据服务凭证",
+    "case16Desc": "全流程合规，提供合规证明与溯源报告，规避风险、保障数据主权",
+    "case16Highlight": "全程合规、主权保障",
+    "case17": "数据安全运维服务包",
+    "case17Desc": "7×24小时监测运维，全链路安全闭环，保障数据资产稳定",
+    "case17Highlight": "全天候守护、安全闭环",
+    "case18": "海外出行服务",
+    "case18Desc": "整合全球200+国家的导航出行引导与增值服务，为企业提供GIS业务整合能力，为用户提供出行信息",
+    "case18Highlight": "灵活模组、依需调用",
+    "case19": "移动端运营服务",
+    "case19Desc": "依客户产品定位，提供国内外定制化的社交媒体运营，透过用户各场景的服务需求，提供个性化推送",
+    "case19Highlight": "智能分析、用户触达优化",
+    "case20": "智能驾舱服务",
+    "case20Desc": "汇集海外多媒体CP资源，针对汽车驾舱各场景应用，提供用户车机与手机的无缝体验，透过环境感知与驾乘交互，优化体验",
+    "case20Highlight": "车企适配、场景定制"
   },
   "functions": {
     "title": "AI赋能中心",
@@ -189,39 +220,60 @@
       "description": "智能问卷、数据复盘、调研结果可视化呈现。"
     }
   },
-  "clients": {
-    "client1": "东京化成工业",
-    "client2": "安部兴产",
-    "client3": "大金工业",
-    "client4": "大东建托",
-    "client5": "骊住集团",
-    "client6": "白元地球",
-    "client7": "日本航空",
-    "client8": "软银集团"
+  "categories": {
+    "collectionTech": "采集技术",
+    "dataCollection": "数据采集",
+    "aiTools": "AI工具",
+    "dataGovernance": "数据治理",
+    "solutions": "解决方案",
+    "dataStandardization": "数据标准化",
+    "aiAnalysis": "AI分析",
+    "industryAnalysis": "行业分析",
+    "aiModels": "AI模型",
+    "deepAnalysis": "深度分析",
+    "marketEmpowerment": "市场赋能",
+    "productServices": "产品服务",
+    "intelligence": "智能化",
+    "operationOptimization": "运营优化",
+    "securityGovernance": "安全治理",
+    "complianceServices": "合规服务",
+    "maintenanceServices": "运维服务"
+  },
+  "successCases": {
+    "title": "服务项目",
+    "description": "我们为客户提供全方位的数据解决方案，助力企业数字化转型",
+    "case1": "多模态合规采集终端",
+    "case2": "全域数据源采集",
+    "case3": "AI智能采集辅助工具",
+    "case4": "品类数据治理平台",
+    "case5": "跨域数据融合解决方案",
+    "case6": "数据标准化手册与数据集",
+    "case7": "AI智能分析仪表盘",
+    "case8": "垂直品类行业分析报告",
+    "case9": "场景化AI分析模型",
+    "case10": "用户与竞品深度分析",
+    "case11": "国内外市场推广数据赋能方案",
+    "case12": "产品创新与生命周期迭代服务",
+    "case13": "产研智能化升级方案",
+    "case14": "互联网络运营数据优化服务",
+    "case15": "数据安全治理体系报告",
+    "case16": "海外合规认证服务",
+    "case17": "数据安全运维服务"
   },
   "footer": {
     "company": "DataCollect Pro",
     "description": "专业的跨国数据整合与AI赋能服务，助力企业高效拓展市场，推进产品迭代与服务运营，驱动业务实现增长。",
     "address": "千叶县我孙子市东我孙子2-29-24费里奥天王台302",
-    "email": "benny.liao@hirotaku.vip",
+    "email": "info@hirotaku.vip",
     "phone": "+81-08092807781",
-    "section1": {
-      "title": "关于我们",
-      "link1": "公司介绍",
-      "link2": "新闻动态",
-      "link3": "加入我们"
-    },
-    "section2": {
-      "title": "服务支持",
-      "link1": "帮助中心",
-      "link2": "API文档",
-      "link3": "服务状态"
-    },
-    "section3": {
-      "title": "法律条款",
-      "link1": "隐私政策",
-      "link2": "服务条款",
-      "link3": "数据安全"
+    "serviceSupport": "服务支持",
+    "cities": {
+      "shanghai": "上海",
+      "shenzhen": "深圳",
+      "taipei": "台北",
+      "jakarta": "雅加达",
+      "oslo": "奥斯陆",
+      "sanfrancisco": "旧金山"
     }
   }
 }

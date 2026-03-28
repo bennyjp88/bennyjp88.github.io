@@ -107,25 +107,6 @@
     "contact": "歡迎隨時聯繫我們",
     "description": "獲取價格方案和服務詳情等資料"
   },
-  "downloads": {
-    "title": "報告下載/定制",
-    "subtitle": "報告資源",
-    "viewMore": "查看更多資料",
-    "items": {
-      "item1": {
-        "title": "2026年全球數據服務行業報告",
-        "description": "全行業數據趨勢分析和預測"
-      },
-      "item2": {
-        "title": "海外CP數據市場分析報告",
-        "description": "海外市場核心數據維度分析"
-      },
-      "item3": {
-        "title": "AI數據採集技術白皮書",
-        "description": "智能爬蟲技術與應用案例"
-      }
-    }
-  },
   "about": {
     "title": "關於我們",
     "subtitle": "平台實力",
@@ -140,34 +121,83 @@
   },
   "blog": {
     "title": "報告資訊中心",
-    "description": "行業報告、市場調研成果、數據資訊和報告下載",
-    "viewMore": "查看更多文章",
-    "articles": [
-      {
-        "title": "2026年全球數據服務行業報告",
-        "date": "2026-03-15"
-      },
-      {
-        "title": "海外CP數據市場分析報告",
-        "date": "2026-02-28"
-      },
-      {
-        "title": "音樂行業數據趨勢研究",
-        "date": "2026-02-15"
-      },
-      {
-        "title": "AI數據採集技術白皮書",
-        "date": "2026-01-30"
-      },
-      {
-        "title": "汽車行業路況數據調研報告",
-        "date": "2026-01-15"
-      },
-      {
-        "title": "2025年度數據服務行業總結",
-        "date": "2025-12-31"
-      }
-    ]
+    "description": "行業報告、市場調研、數據分析",
+    "card1-title": "行業報告",
+    "card1-description": "提供深度行業分析報告，洞察市場趨勢和競爭格局",
+    "card2-title": "市場調研",
+    "card2-description": "專業的市場調研服務，幫助企業了解目標市場",
+    "card3-title": "數據分析",
+    "card3-description": "精準的數據分析，為決策提供科學依據"
+  },
+  "modules": {
+    "dataCollection": "數據採集類成果",
+    "dataIntegration": "數據整合類成果",
+    "dataAnalysis": "數據分析類成果",
+    "implementation": "全鏈條落地類成果",
+    "security": "數據安全與合規類成果",
+    "ecosystem": "互聯網生態資源成果"
+  },
+  "cases": {
+    "case1": "多模態合規採集終端",
+    "case1Desc": "國產自主研發，全流程加密，多模態採集、多行業適配，降本30%、運維提速50%",
+    "case1Highlight": "本地化合規、高效降本",
+    "case2": "全域數據源採集",
+    "case2Desc": "覆蓋國內外全品類數據源，多平台實時採集，日采10萬+條、覆蓋率98%+，可定制、破碎片化",
+    "case2Highlight": "全域覆蓋、高效可定制",
+    "case3": "AI智能採集輔助工具",
+    "case3Desc": "大模型+邊緣計算，本地初篩清洗，釋放80%存儲空間，合規採集、自適應場景",
+    "case3Highlight": "智能高效、安全合規",
+    "case4": "全品類數據治理平台",
+    "case4Desc": "一站式全流程治理，日PB級同步，清洗準確率99.2%，實現數據資產化、多行業適配",
+    "case4Highlight": "高效治理、資產化管理",
+    "case5": "跨域數據融合解決方案",
+    "case5Desc": "定制化打通多源數據，大模型關聯分析，構建「數據-技術-服務」體系，打破數據孤島",
+    "case5Highlight": "跨域互通、全體系賦能",
+    "case6": "數據標準化手冊與數據集",
+    "case6Desc": "統一數據標準，提供可直接複用的標準化數據集，降本提效、支撐快速決策",
+    "case6Highlight": "標準規範、即取即用",
+    "case7": "AI智能分析儀表板",
+    "case7Desc": "可視化多維度呈現，實時更新、支持交互，助力高層快速決策、運營實時監控",
+    "case7Highlight": "可視化、高效決策",
+    "case8": "垂直品類行業分析報告",
+    "case8Desc": "定期輸出深度報告，含趨勢預測與需求洞察，多行業成熟體系，成為行業參考",
+    "case8Highlight": "深度專業、行業標杆",
+    "case9": "場景化AI分析模型",
+    "case9Desc": "定制多場景適配，覆蓋市場、產研、運營等，故障預測準92%、開發提速最高51%",
+    "case9Highlight": "場景適配、效能突出",
+    "case10": "用戶與競品深度分析",
+    "case10Desc": "精準用戶畫像+競品全景檔案，多維度對比，支撐產品創新與市場競爭",
+    "case10Highlight": "精準洞察、競爭賦能",
+    "case11": "國內外市場推廣數據賦能方案",
+    "case11Desc": "全球數據支撐，全流程服務，合規適配，助力拓展市場、降本增效，獲行業優秀案例",
+    "case11Highlight": "全球適配、落地見效",
+    "case12": "產品創新與生命周期迭代服務",
+    "case12Desc": "全周期數據支撐，挖掘需求、優化產品，縮短迭代周期、提升競爭力",
+    "case12Highlight": "全周期賦能、創新驅動",
+    "case13": "產研智能化升級方案",
+    "case13Desc": "工業數據+AI融合，優化流程、設備預警，能耗降8%+，服務數百家企業",
+    "case13Highlight": "智能升級、節能高效",
+    "case14": "互聯網運營數據優化服務",
+    "case14Desc": "全場景運營分析，實時監測、精準優化，部分案例攬收率從62%升至92%",
+    "case14Highlight": "精準優化、成效顯著",
+    "case15": "數據安全治理體系報告",
+    "case15Desc": "定制化風險評估與整改，40+保護措施、50+敏感識別模板，適配多行業合規",
+    "case15Highlight": "定制合規、全面防護",
+    "case16": "合規數據服務憑證",
+    "case16Desc": "全流程合規，提供合規證明與溯源報告，規避風險、保障數據主權",
+    "case16Highlight": "全程合規、主權保障",
+    "case17": "數據安全運維服務包",
+    "case17Desc": "7×24小時監測運維，全鏈路安全閉環，保障數據資產穩定",
+    "case17Highlight": "全天候守護、安全閉環",
+    "case18": "海外出行服務",
+    "case18Desc": "整合全球200+國家的導航出行引導與增值服務，為企業提供GIS業務整合能力，為用戶提供出行信息",
+    "case18Highlight": "靈活模組、依需調用",
+    "case19": "移動端運營服務",
+    "case19Desc": "依客戶產品定位，提供國內外定制化的社交媒體運營，透過用戶各場景的服務需求，提供個性化推送",
+    "case19Highlight": "智能分析、用戶觸達優化",
+    "case20": "智能駕艙服務",
+    "case20Desc": "匯集海外多媒體CP資源，針對汽車駕艙各場景應用，提供用戶車機與手機的無縫體驗，透過環境感知與駕乘交互，優化體驗",
+    "case20Highlight": "車企適配、場景定制"
   },
   "functions": {
     "title": "AI賦能中心",
@@ -189,39 +219,60 @@
       "description": "智能問卷、數據複盤、調研結果視覺化呈現。"
     }
   },
-  "clients": {
-    "client1": "東京化成工業",
-    "client2": "安部興産",
-    "client3": "大金工業",
-    "client4": "大東建托",
-    "client5": "驪住集團",
-    "client6": "白元地球",
-    "client7": "日本航空",
-    "client8": "軟銀集團"
+  "categories": {
+    "collectionTech": "採集技術",
+    "dataCollection": "數據採集",
+    "aiTools": "AI工具",
+    "dataGovernance": "數據治理",
+    "solutions": "解決方案",
+    "dataStandardization": "數據標準化",
+    "aiAnalysis": "AI分析",
+    "industryAnalysis": "行業分析",
+    "aiModels": "AI模型",
+    "deepAnalysis": "深度分析",
+    "marketEmpowerment": "市場賦能",
+    "productServices": "產品服務",
+    "intelligence": "智能化",
+    "operationOptimization": "運營優化",
+    "securityGovernance": "安全治理",
+    "complianceServices": "合規服務",
+    "maintenanceServices": "運維服務"
+  },
+  "successCases": {
+    "title": "服務項目",
+    "description": "我們為客戶提供全方位的數據解決方案，助力企業數位化轉型",
+    "case1": "多模態合規採集終端",
+    "case2": "全域數據源採集",
+    "case3": "AI智能採集輔助工具",
+    "case4": "品類數據治理平台",
+    "case5": "跨域數據融合解決方案",
+    "case6": "數據標準化手冊與數據集",
+    "case7": "AI智能分析儀表板",
+    "case8": "垂直品類行業分析報告",
+    "case9": "場景化AI分析模型",
+    "case10": "用戶與競品深度分析",
+    "case11": "國內外市場推廣數據賦能方案",
+    "case12": "產品創新與生命週期迭代服務",
+    "case13": "產研智能化升級方案",
+    "case14": "互聯網運營數據優化服務",
+    "case15": "數據安全治理體系報告",
+    "case16": "海外合規認證服務",
+    "case17": "數據安全運維服務"
   },
   "footer": {
     "company": "DataCollect Pro",
     "description": "專業的跨國數據整合與AI賦能服務，助力企業高效拓展市場，推進產品迭代與服務運營，驅動業務實現增長。",
     "address": "千葉縣我孫子市東我孫子2-29-24費里奧天王台302",
-    "email": "benny.liao@hirotaku.vip",
+    "email": "info@hirotaku.vip",
     "phone": "+81-08092807781",
-    "section1": {
-      "title": "關於我們",
-      "link1": "公司介紹",
-      "link2": "新聞動態",
-      "link3": "加入我們"
-    },
-    "section2": {
-      "title": "服務支持",
-      "link1": "幫助中心",
-      "link2": "API文檔",
-      "link3": "服務狀態"
-    },
-    "section3": {
-      "title": "法律條款",
-      "link1": "隱私政策",
-      "link2": "服務條款",
-      "link3": "數據安全"
+    "serviceSupport": "服務支持",
+    "cities": {
+      "shanghai": "上海",
+      "shenzhen": "深圳",
+      "taipei": "台北",
+      "jakarta": "雅加達",
+      "oslo": "奧斯陸",
+      "sanfrancisco": "舊金山"
     }
   }
 }
