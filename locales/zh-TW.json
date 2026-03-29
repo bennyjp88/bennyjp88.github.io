@@ -242,11 +242,12 @@
     "case17": "數據安全運維服務"
   },
   "footer": {
-    "company": "宽拓ヒロタク",
-    "description": "專業的跨國數據整合與AI賦能服務，助力企業高效拓展市場，推進產品迭代與服務運營，驅動業務實現增長。",
-    "address": "千葉縣我孫子市東我孫子2-29-24費里奧天王台302",
+    "company": "寬拓ヒロタク",
+    "description": "專業的跨境數據整合與AI賦能服務，幫助企業高效拓展市場、推動產品迭代與服務運營，驅動業務增長。",
+    "address": "日本國千葉縣旭市東我孫子2-29-24 フェリオ天王台302",
     "email": "info@hirotaku.vip",
     "phone": "+81-08092807781",
-    "serviceSupport": "海外服務"
+    "serviceSupport": "海外服務",
+    "copyright": "Copyright © 2025 - {{year}} hirotaku. All Rights Reserved."
   }
 }

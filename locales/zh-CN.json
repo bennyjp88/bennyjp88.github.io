@@ -244,10 +244,11 @@
   },
   "footer": {
     "company": "宽拓ヒロタク",
-    "description": "专业的跨国数据整合与AI赋能服务，助力企业高效拓展市场，推进产品迭代与服务运营，驱动业务实现增长。",
-    "address": "千叶县我孙子市东我孙子2-29-24费里奥天王台302",
+    "description": "专业的跨境数据整合与AI赋能服务，帮助企业高效拓展市场、推动产品迭代与服务运营，驱动业务增长。",
+    "address": "日本国千叶县旭市东我孙子2-29-24 フェリオ天王台302",
     "email": "info@hirotaku.vip",
     "phone": "+81-08092807781",
-    "serviceSupport": "海外服务"
+    "serviceSupport": "海外服务",
+    "copyright": "Copyright © 2025 - {{year}} hirotaku. All Rights Reserved."
   }
 }
