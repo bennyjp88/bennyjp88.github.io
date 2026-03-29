@@ -1,8 +1,5 @@
 {
-  "common": {
-    "download": "資料ダウンロード",
-    "contact": "お問い合わせ"
-  },
+  "common": {},
   "navbar": {
     "home": "ホーム",
     "coreDataService": "コアデータサービス",
@@ -10,20 +7,11 @@
     "aiEmpowermentCenter": "AIインパワーメントセンター",
     "reportNews": "レポート＆ニュース",
     "about": "会社概要",
-    "features": "機能特長",
-    "useCases": "使用シナリオ",
-    "blog": "ブログ",
-    "faq": "よくある質問",
-    "download": "ダウンロード",
-    "contact": "お問い合わせ",
-    "reasons": "選択理由",
-    "cases": "顧客事例",
-    "functions": "主要機能"
+    "contact": "お問い合わせ"
   },
   "hero": {
     "title": "プロフェッショナルなWebデータ収集・自動化サービス",
     "subtitle": "企業が効率的にウェブデータを取得し、ビジネス成長を促進する",
-    "cta": "はじめる",
     "tagline": "各カテゴリー垂直データ統合サービスプラットフォーム",
     "slogan1": "クロスドメインデータ収集・専門分析エンパワーメント",
     "slogan2": "海外専門分野の深耕・精確な調査意思決定",
@@ -122,13 +110,7 @@
   },
   "blog": {
     "title": "レポート＆ニュース",
-    "description": "業界レポート、市場調査、データ分析",
-    "card1-title": "業界レポート",
-    "card1-description": "市場動向と競争環境の洞察を得るための深い業界分析レポートを提供",
-    "card2-title": "市場調査",
-    "card2-description": "企業がターゲット市場を理解するためのプロフェッショナルな市場調査サービス",
-    "card3-title": "データ分析",
-    "card3-description": "意思決定のための科学的な基礎を提供するための正確なデータ分析"
+    "description": "業界レポート、市場調査、データ分析"
   },
   "modules": {
     "dataCollection": "データ収集",
@@ -261,19 +243,11 @@
     "case17": "データセキュリティ運用保守サービス"
   },
   "footer": {
-    "company": "DataCollect Pro",
+    "company": "宽拓ヒロタク",
     "description": "プロフェッショナルな国境を越えたデータ統合とAIエンパワーメントサービスで、企業が効率的に市場を拡大し、製品の反復とサービス運営を推進し、ビジネスの成長を促進します。",
     "address": "千葉県我孫子市東我孫子2-29-24 フェリオ天王台 302",
     "email": "info@hirotaku.vip",
     "phone": "+81-08092807781",
-    "serviceSupport": "サービスサポート",
-    "cities": {
-      "shanghai": "上海",
-      "shenzhen": "深圳",
-      "taipei": "台北",
-      "jakarta": "ジャカルタ",
-      "oslo": "オスロ",
-      "sanfrancisco": "サンフランシスコ"
-    }
+    "serviceSupport": "海外サービス"
   }
 }

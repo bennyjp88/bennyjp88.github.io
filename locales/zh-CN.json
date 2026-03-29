@@ -1,8 +1,5 @@
 {
-  "common": {
-    "download": "资料下载",
-    "contact": "联系我们"
-  },
+  "common": {},
   "navbar": {
     "home": "首页",
     "coreDataService": "数据整合服务",
@@ -10,20 +7,11 @@
     "aiEmpowermentCenter": "AI赋能中心",
     "reportNews": "成果报告",
     "about": "关于我们",
-    "features": "功能特点",
-    "useCases": "使用场景",
-    "blog": "专栏",
-    "faq": "常见问题",
-    "download": "资料下载",
-    "contact": "联系我们",
-    "reasons": "选择理由",
-    "cases": "客户案例",
-    "functions": "主要功能"
+    "contact": "联系我们"
   },
   "hero": {
     "title": "专业的Web数据采集与自动化服务",
     "subtitle": "助力企业高效获取网络数据，驱动业务增长",
-    "cta": "立即开始",
     "tagline": "各品类垂直数据整合服务平台",
     "slogan1": "跨域数据采集 · 专业分析赋能",
     "slogan2": "海外专项深耕 · 精准调研决策",
@@ -122,13 +110,7 @@
   },
   "blog": {
     "title": "成果报告",
-    "description": "行业报告、市场调研、数据分析",
-    "card1-title": "行业报告",
-    "card1-description": "提供深度行业分析报告，洞察市场趋势和竞争格局",
-    "card2-title": "市场调研",
-    "card2-description": "专业的市场调研服务，帮助企业了解目标市场",
-    "card3-title": "数据分析",
-    "card3-description": "精准的数据分析，为决策提供科学依据"
+    "description": "行业报告、市场调研、数据分析"
   },
   "modules": {
     "dataCollection": "数据采集",
@@ -261,19 +243,11 @@
     "case17": "数据安全运维服务"
   },
   "footer": {
-    "company": "DataCollect Pro",
+    "company": "宽拓ヒロタク",
     "description": "专业的跨国数据整合与AI赋能服务，助力企业高效拓展市场，推进产品迭代与服务运营，驱动业务实现增长。",
     "address": "千叶县我孙子市东我孙子2-29-24费里奥天王台302",
     "email": "info@hirotaku.vip",
     "phone": "+81-08092807781",
-    "serviceSupport": "服务支持",
-    "cities": {
-      "shanghai": "上海",
-      "shenzhen": "深圳",
-      "taipei": "台北",
-      "jakarta": "雅加达",
-      "oslo": "奥斯陆",
-      "sanfrancisco": "旧金山"
-    }
+    "serviceSupport": "海外服务"
   }
 }

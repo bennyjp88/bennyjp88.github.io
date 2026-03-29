@@ -1,8 +1,5 @@
 {
-  "common": {
-    "download": "Download Materials",
-    "contact": "Contact Us"
-  },
+  "common": {},
   "navbar": {
     "home": "Home",
     "coreDataService": "Core Data Services",
@@ -10,20 +7,11 @@
     "aiEmpowermentCenter": "AI Empowerment Center",
     "reportNews": "Report & News",
     "about": "About Us",
-    "features": "Features",
-    "useCases": "Use Cases",
-    "blog": "Blog",
-    "faq": "FAQ",
-    "download": "Download",
-    "contact": "Contact",
-    "reasons": "Reasons to Choose",
-    "cases": "Customer Cases",
-    "functions": "Main Features"
+    "contact": "Contact"
   },
   "hero": {
     "title": "Professional Web Data Collection and Automation Services",
     "subtitle": "Helping businesses efficiently acquire web data and drive business growth",
-    "cta": "Get Started",
     "tagline": "Vertical Data Integration Service Platform for All Categories",
     "slogan1": "Cross-domain Data Collection · Professional Analysis Empowerment",
     "slogan2": "Overseas Specialized Deep Cultivation · Precise Research Decision-making",
@@ -122,13 +110,7 @@
   },
   "blog": {
     "title": "Report & News",
-    "description": "Industry reports, market research, data analysis",
-    "card1-title": "Industry Reports",
-    "card1-description": "Provide in-depth industry analysis reports to gain insights into market trends and competitive landscape",
-    "card2-title": "Market Research",
-    "card2-description": "Professional market research services to help businesses understand target markets",
-    "card3-title": "Data Analysis",
-    "card3-description": "Precise data analysis to provide scientific basis for decision-making"
+    "description": "Industry reports, market research, data analysis"
   },
   "modules": {
     "dataCollection": "Data Collection",
@@ -261,19 +243,11 @@
     "case17": "Data security operation and maintenance service"
   },
   "footer": {
-    "company": "DataCollect Pro",
+    "company": "宽拓ヒロタク",
     "description": "Professional cross-border data integration and AI empowerment services, helping businesses efficiently expand markets, promote product iteration and service operations, and drive business growth.",
-    "address": "2-29-24 Higashi-Abiko, Abiko City, Chiba Prefecture, Ferio Tennozawa 302",
+    "address": "302 Ferio Tennodai, 2-29-24 Higashi Abiko, Abiko City, Chiba Prefecture",
     "email": "info@hirotaku.vip",
     "phone": "+81-08092807781",
-    "serviceSupport": "Service Support",
-    "cities": {
-      "shanghai": "Shanghai",
-      "shenzhen": "Shenzhen",
-      "taipei": "Taipei",
-      "jakarta": "Jakarta",
-      "oslo": "Oslo",
-      "sanfrancisco": "San Francisco"
-    }
+    "serviceSupport": "Overseas Services"
   }
 }
