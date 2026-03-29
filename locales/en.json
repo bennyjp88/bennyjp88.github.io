@@ -121,7 +121,7 @@
     "advantage5": "Customized Services"
   },
   "blog": {
-    "title": "Report & News Center",
+    "title": "Report & News",
     "description": "Industry reports, market research, data analysis",
     "card1-title": "Industry Reports",
     "card1-description": "Provide in-depth industry analysis reports to gain insights into market trends and competitive landscape",
@@ -131,12 +131,12 @@
     "card3-description": "Precise data analysis to provide scientific basis for decision-making"
   },
   "modules": {
-    "dataCollection": "Data Collection Achievements",
-    "dataIntegration": "Data Integration Achievements",
-    "dataAnalysis": "Data Analysis Achievements",
-    "implementation": "Full-chain Implementation Achievements",
-    "security": "Data Security & Compliance Achievements",
-    "ecosystem": "Internet Ecosystem Resource Achievements"
+    "dataCollection": "Data Collection",
+    "dataIntegration": "Data Integration",
+    "dataAnalysis": "Data Analysis",
+    "implementation": "Full-chain Implementation",
+    "security": "Data Security & Compliance",
+    "ecosystem": "Internet Ecosystem Resource"
   },
   "cases": {
     "case1": "Multimodal Compliant Collection Terminal",

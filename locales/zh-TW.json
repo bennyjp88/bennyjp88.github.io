@@ -120,7 +120,7 @@
     "advantage5": "定制化服務"
   },
   "blog": {
-    "title": "報告資訊中心",
+    "title": "報告資訊",
     "description": "行業報告、市場調研、數據分析",
     "card1-title": "行業報告",
     "card1-description": "提供深度行業分析報告，洞察市場趨勢和競爭格局",
@@ -130,12 +130,12 @@
     "card3-description": "精準的數據分析，為決策提供科學依據"
   },
   "modules": {
-    "dataCollection": "數據採集類成果",
-    "dataIntegration": "數據整合類成果",
-    "dataAnalysis": "數據分析類成果",
-    "implementation": "全鏈條落地類成果",
-    "security": "數據安全與合規類成果",
-    "ecosystem": "互聯網生態資源成果"
+    "dataCollection": "數據採集",
+    "dataIntegration": "數據整合",
+    "dataAnalysis": "數據分析",
+    "implementation": "全鏈條落地",
+    "security": "數據安全與合規",
+    "ecosystem": "互聯網生態資源"
   },
   "cases": {
     "case1": "多模態合規採集終端",

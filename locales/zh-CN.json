@@ -121,7 +121,7 @@
     "advantage5": "定制化服务"
   },
   "blog": {
-    "title": "成果报告中心",
+    "title": "成果报告",
     "description": "行业报告、市场调研、数据分析",
     "card1-title": "行业报告",
     "card1-description": "提供深度行业分析报告，洞察市场趋势和竞争格局",
@@ -131,12 +131,12 @@
     "card3-description": "精准的数据分析，为决策提供科学依据"
   },
   "modules": {
-    "dataCollection": "数据采集类成果",
-    "dataIntegration": "数据整合类成果",
-    "dataAnalysis": "数据分析类成果",
-    "implementation": "全链条落地类成果",
-    "security": "数据安全与合规类成果",
-    "ecosystem": "互联网生态资源成果"
+    "dataCollection": "数据采集",
+    "dataIntegration": "数据整合",
+    "dataAnalysis": "数据分析",
+    "implementation": "全链条落地",
+    "security": "数据安全与合规",
+    "ecosystem": "互联网生态资源"
   },
   "cases": {
     "case1": "多模态合规采集终端",

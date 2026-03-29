@@ -121,7 +121,7 @@
     "advantage5": "カスタマイズされたサービス"
   },
   "blog": {
-    "title": "レポート＆ニュースセンター",
+    "title": "レポート＆ニュース",
     "description": "業界レポート、市場調査、データ分析",
     "card1-title": "業界レポート",
     "card1-description": "市場動向と競争環境の洞察を得るための深い業界分析レポートを提供",
@@ -131,12 +131,12 @@
     "card3-description": "意思決定のための科学的な基礎を提供するための正確なデータ分析"
   },
   "modules": {
-    "dataCollection": "データ収集類成果",
-    "dataIntegration": "データ統合類成果",
-    "dataAnalysis": "データ分析類成果",
-    "implementation": "全連鎖実装類成果",
-    "security": "データセキュリティ＆コンプライアンス類成果",
-    "ecosystem": "インターネットエコシステムリソース成果"
+    "dataCollection": "データ収集",
+    "dataIntegration": "データ統合",
+    "dataAnalysis": "データ分析",
+    "implementation": "全連鎖実装",
+    "security": "データセキュリティ＆コンプライアンス",
+    "ecosystem": "インターネットエコシステムリソース"
   },
   "cases": {
     "case1": "マルチモーダルコンプライアンス収集端末",
